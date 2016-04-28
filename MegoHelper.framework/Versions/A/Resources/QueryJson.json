@@ -1,0 +1,30 @@
+{
+    "querysection": "this is dummy",
+    "type": "Advanced",
+    "input": {
+        "type": "self",
+        "isfirstname": true,
+        "islastname": true,
+        "isemail": true,
+        "isphone": true,
+        "islocationonmap": true,
+        "customlabel": "Test"
+    },
+    
+    "allowattachment": {
+        "isattachment": true,
+        "attachmentmode": "camera || gallery || file"
+        
+    },
+    "Addquery": [{
+                 "queryid": "fsdfds",
+                 "queryTittle": "This is test",
+                 "querySubquery": ["This is dummy test", "This is dummy test", "This is dummy test"],
+                 "queryanswer": ["This is dummy test", "This is dummy test", "This is dummy test"]
+                 }, {
+                 "queryid": "fsdfds",
+                 "queryTittle": "This is test",
+                 "querySubquery": ["This is dummy test", "This is dummy test", "This is dummy test"],
+                 "queryanswer":["This is dummy test", "This is dummy test", "This is dummy test"]
+                 }]
+}

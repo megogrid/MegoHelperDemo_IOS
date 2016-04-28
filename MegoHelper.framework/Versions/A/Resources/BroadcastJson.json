@@ -1,0 +1,22 @@
+{
+    "broadcasttypeid": "1",
+    "startdate": "2015-12-01",
+    "enddate": "2016-11-30",
+    "buttontext": "Download",
+    "decodedlink": "https:\/\/itunes.apple.com\/in\/app\/facebook\/id284882215",
+    "encodedlink": "https%3A%2F%2Fitunes.apple.com%2Fin%2Fapp%2Ffacebook%2Fid284882215",
+    "imageurl": "http:\/\/mgcms.migsites.com\/img\/developerimg\/admin\/Broadcast\/",
+    "Navigation": [{
+                   "startDay": "1",
+                   "counts": ["2", "3", "6", "8", "10"]
+                   }, {
+                   "startDay": "3",
+                   "counts": ["1", "2", "3", "4", "5"]
+                   }],
+    "limit_status": 1,
+    "user_skips_status": 0,
+    "user_skip_count": 0,
+    "dont_show_status": 1,
+    "dont_show_count": 1,
+    "dont_show_days": 1,
+}

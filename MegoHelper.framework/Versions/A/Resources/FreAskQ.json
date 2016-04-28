@@ -1,0 +1,57 @@
+{
+    "header": "FAQ",
+    "data": [{
+             "header_title": "Important",
+             "Questions": [{
+                           "question": "Are you a doctor?",
+                           "answer": "&lt;p&gt;What are the various passport services and which form has to be filled in?&lt;\/p&gt;"
+                           }]
+             }],
+    "isuserconnect": "false",
+    "boxid": "0"
+}
+
+
+
+
+{
+    "header": "FAQ",
+    "data":
+    [
+     {
+     "header_title": "About Mego Helper",
+     "Questions":
+     [
+      {
+      "question": "What are the future plans for Project MegaGrid?",
+      "answer": "<p>This module allows administrator to add help text to node title field.</p>"
+      },
+      {
+      "question": "What are the primary business and IT challen ges that Project MegaGrid addresses?",
+      "answer": "<p>This adds the provision to add help text below the field label.</p>"
+      },
+      {
+      "question": "Is a specific application part of this initiative?",
+      "answer": "<p>This module do not touch title field of the node.</p>"
+      },
+      {
+      "question": "Is this initiative a product bundle?",
+      "answer": "<p>This module allows the title field to be edited the way other fields are edited</p>"
+      }
+      ]
+     },
+     {
+     "header_title": "How Can used megogrid",
+     "Questions":
+     [
+      {
+      "question": "How many application used in andriod plat form.?",
+      "answer": "<p>Our Android platform has over 1.5 million mobile apps are used.</p>"
+      }
+      ]
+     }
+     ],
+    "isuserconnect": "false",
+    "boxid": "1092"
+}
+

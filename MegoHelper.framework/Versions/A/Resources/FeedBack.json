@@ -1,0 +1,11 @@
+{
+    "Prompt": "Thanks  for insttaling",
+    "addscreenshot": true,
+    "buttontext": {
+        "issubmit": "true",
+        "iscancel": "false",
+        "islater": "true"
+    },
+    "isuserconnect": "false",
+    "boxid": "0"
+}

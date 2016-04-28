@@ -1,0 +1,16 @@
+{
+    "template": "standard",
+    "themeid": "theme1",
+    "Tutorial": [{
+                 "textplacement": "footer",
+                 "title": "Tutorial 2",
+                 "content": "&amp;lt;ol&amp;gt;\r\n&amp;lt;li&amp;gt;Notepad is a basic text-editing program and it&#039;s most commonly&amp;lt;\/li&amp;gt;\r\n&amp;lt;li&amp;gt;Used to view or edit text files.&amp;lt;\/li&amp;gt;\r\n&amp;lt;\/ol&amp;gt;",
+                 "imageurl": "http:\/\/mgcms.migsites.com\/img\/developerimg\/admin\/Tutorial\/568259331e4ac_images.jpg"
+                 }, {
+                 "textplacement": "header",
+                 "title": "Tutorial 2",
+                 "content": "&amp;lt;ol&amp;gt;\r\n&amp;lt;li&amp;gt;\r\n&amp;lt;h3&amp;gt;&amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;Notepad is a basic text-editing program and it&#039;s most commonly&amp;lt;\/strong&amp;gt;&amp;lt;\/em&amp;gt;&amp;lt;\/h3&amp;gt;\r\n&amp;lt;\/li&amp;gt;\r\n&amp;lt;\/ol&amp;gt;",
+                 "imageurl": "http:\/\/mgcms.migsites.com\/img\/developerimg\/admin\/Tutorial\/568258848bdb3_64a221fe6c55b57b6f9e85169c861c2f_screeshots_3.jpeg"
+                 }],
+    "ispoweredby": "0"
+}

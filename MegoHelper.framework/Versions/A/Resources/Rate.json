@@ -1,0 +1,26 @@
+{
+    "rating_type": "basic",
+    "prompt": "Basic Rating",
+    "feedback": "",
+    "url": "",
+    "action_rev": 3,
+    "buttontext": {
+        "isdownload": "true",
+        "islater": "true",
+        "isnothanks": "false"
+    },
+    "screenshot": 0,
+    "prompt_occurence": [{
+                         "startDay": "1",
+                         "counts": ["1", "2", "3"]
+                         }],
+    "skip_count": 1,
+    "prompt_count": 1,
+    "limit_days": 1,
+    "ispowerplatform": "false",
+    "limit_status": "1",
+    "skips_status": "1",
+    "dontshow_status": 0,
+    "isuserconnect": "false",
+    "boxid": "0"
+}

@@ -1,0 +1,59 @@
+{
+    "surveytypes": "single | multiple",
+    "grouptittle": "dfdsfds",
+    "inputtype": "checkbox || rating",
+    "visiblity": {
+        "isappenty": true,
+        "isappexit": true,
+        "iscustombox": "dfdsdfsd"
+    },
+    "question": [{
+                 "questionid": "1.",
+                 "questiontittle": "1.Hello hai how are you?When you going to call me ",
+                 "isallowcomment": true,
+                 "answeroption": [
+                                  "one",
+                                  "one",
+                                  "one",
+                                  "one"
+                                  
+                                  ]
+                 },
+                 {
+                 "questionid": "2.",
+                 "questiontittle": "2.Hai Say",
+                 "isallowcomment": false,
+                 "answeroption": [
+                                  "one",
+                                  "one",
+                                  "one",
+                                  "one"
+                                  
+                                  ]
+                 },
+                 {
+                 "questionid": "3.",
+                 "questiontittle": "3.this is test questions",
+                 "isallowcomment": true,
+                 "answeroption": [
+                                  "one",
+                                  "one",
+                                  "one",
+                                  "one"
+                                  
+                                  ]
+                 },
+                 {
+                 "questionid": "4.",
+                 "questiontittle": "4.this is test questions",
+                 "isallowcomment": true,
+                 "answeroption": [
+                                  "one",
+                                  "one",
+                                  "one",
+                                  "one"
+                                  
+                                  ]
+                 }
+                 ]
+}

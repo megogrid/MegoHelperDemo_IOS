@@ -1,0 +1,26 @@
+{
+    "style": "advance",
+    "header": "Advance Update",
+    "content": "Please update Advance Update",
+    "buttontext": {
+        "isdownload": "true",
+        "islater": "false",
+        "isnothanks": "true"
+    },
+    "promptoccurance": [{
+                        "startDay": "1",
+                        "counts": ["1", "2", "3"]
+                        }, {
+                        "startDay": "2",
+                        "counts": ["1", "2", "3"]
+                        }],
+    "skip_count": 1,
+    "prompt_count": 2,
+    "limit_days": 1,
+    "limit_status":1,
+    "skips_status": 1,
+    "dontshow_status":1,
+    "ispowerplatform": "true",
+    "isuserconnect": "false",
+    "boxid": "0"
+}
